@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: rgb(51, 51, 51);
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #000000;
+    margin: 20px 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+.highlight {
+    background-color: rgb(218, 218, 150);
+    padding: 5px;
+}
+
+
+.abbr-html {
+    background-color: rgb(130, 255, 255);
+    color: rgb(114, 30, 37);
+}
+
+.code-example {
+    background-color: rgba(139, 135, 135, 0.384);
+    padding: 10px;
+    font-family: monospace;
+}
+
+dfn {
+    font-style: italic;
+}
+
+.inline-code {
+    color: brown;
+}
+
+.tags {
+    color: rgb(100, 100, 100);
+}
+
+.tag {
+    color: rgb(110, 158, 170);
+    margin-right: 5px;
+}
+
+#blue-highlight{
+    background-color: rgb(71, 180, 231);
+}   
